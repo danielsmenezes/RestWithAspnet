@@ -18,3 +18,23 @@ D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore\AulasRestApsNetCore\obj\D
 D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore\AulasRestApsNetCore\obj\Debug\netcoreapp3.1\AulasRestApsNetCore.dll
 D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore\AulasRestApsNetCore\obj\Debug\netcoreapp3.1\AulasRestApsNetCore.pdb
 D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore\AulasRestApsNetCore\obj\Debug\netcoreapp3.1\AulasRestApsNetCore.genruntimeconfig.cache
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\bin\Debug\netcoreapp3.1\AulasRestApsNetCore.exe
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\bin\Debug\netcoreapp3.1\AulasRestApsNetCore.deps.json
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\bin\Debug\netcoreapp3.1\AulasRestApsNetCore.runtimeconfig.json
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\bin\Debug\netcoreapp3.1\AulasRestApsNetCore.runtimeconfig.dev.json
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\bin\Debug\netcoreapp3.1\AulasRestApsNetCore.dll
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\bin\Debug\netcoreapp3.1\AulasRestApsNetCore.pdb
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\obj\Debug\netcoreapp3.1\AulasRestApsNetCore.csprojAssemblyReference.cache
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\obj\Debug\netcoreapp3.1\AulasRestApsNetCore.AssemblyInfoInputs.cache
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\obj\Debug\netcoreapp3.1\AulasRestApsNetCore.AssemblyInfo.cs
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\obj\Debug\netcoreapp3.1\AulasRestApsNetCore.csproj.CoreCompileInputs.cache
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\obj\Debug\netcoreapp3.1\AulasRestApsNetCore.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\obj\Debug\netcoreapp3.1\AulasRestApsNetCore.RazorTargetAssemblyInfo.cache
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\obj\Debug\netcoreapp3.1\staticwebassets\AulasRestApsNetCore.StaticWebAssets.Manifest.cache
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\obj\Debug\netcoreapp3.1\staticwebassets\AulasRestApsNetCore.StaticWebAssets.xml
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\obj\Debug\netcoreapp3.1\AulasRestApsNetCore.dll
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\obj\Debug\netcoreapp3.1\AulasRestApsNetCore.pdb
+D:\Documentos\Aulas\RestWithAspnet\AulasRestApsNetCore 01 - Calculator\AulasRestApsNetCore\obj\Debug\netcoreapp3.1\AulasRestApsNetCore.genruntimeconfig.cache
